@@ -1,2 +1,4 @@
 # my-first-binder
-test1
+print("hello word!")
+
+
